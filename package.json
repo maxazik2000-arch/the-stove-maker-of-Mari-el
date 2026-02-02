@@ -1,0 +1,12 @@
+{
+  "name": "stove-maker-mari-el",
+  "version": "1.0.0",
+  "description": "Печник Марий Эл - Professional stove and chimney services",
+  "main": "index.html",
+  "scripts": {
+    "start": "serve ."
+  },
+  "keywords": ["печь", "камин", "барбекю"],
+  "author": "maxazik2000-arch",
+  "license": "MIT"
+}
